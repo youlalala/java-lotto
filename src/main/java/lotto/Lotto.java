@@ -11,6 +11,7 @@ public class Lotto {
     private final List<Integer> lottoNumbers;
 
     public Lotto(List<Integer> lottoNumbers) {
+        // test3
         validateLottoNumbers(lottoNumbers);
         this.lottoNumbers = lottoNumbers;
     }
