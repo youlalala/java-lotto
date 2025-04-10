@@ -34,4 +34,6 @@ public class Lotto {
         }
     }
 
+    // test2
+
 }
