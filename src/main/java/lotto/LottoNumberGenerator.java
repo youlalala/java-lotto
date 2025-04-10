@@ -30,4 +30,6 @@ public class LottoNumberGenerator {
                 .collect(Collectors.toList());
     }
 
+    // test
+
 }
